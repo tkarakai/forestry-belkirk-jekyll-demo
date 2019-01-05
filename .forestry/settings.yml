@@ -8,7 +8,6 @@ sections:
   path: welcome
   label: Welcome
   match: "**/*"
-  read_only: false
 - type: heading
   label: Content
 - type: jekyll-posts
