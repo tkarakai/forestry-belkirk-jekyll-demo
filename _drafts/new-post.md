@@ -1,0 +1,15 @@
+---
+layout: post
+title: New post
+sub_heading: Let's try it!
+date: 2019-01-01 06:00:00 +0000
+tags: []
+banner_image: "/uploads/2018/02/17/building2.jpg"
+related_posts: []
+
+---
+This is the text of the post!
+
+* This is a list
+* of some
+* words
