@@ -79,5 +79,10 @@ fields:
   type: text
   hidden: true
   default: home
+- type: boolean
+  name: toggle
+  label: toggle
+  description: desc
+- type: text
 pages:
 - index.md
