@@ -1,0 +1,5 @@
+---
+footer:
+- url: https://google.com
+  weight: 4
+  title: Test Link
